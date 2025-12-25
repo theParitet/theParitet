@@ -10,7 +10,7 @@ Here's what you need to know about me:
 ### My Projects
 
 > [!NOTE]
-> All my web projects are currently being hosted on GitHub Pages if you want to check them out. 😉
+> All my web projects are hosted on GitHub Pages if you want to check them out. 😉
 >
 > Other projects are not hard to run too!
 
